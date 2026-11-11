@@ -27,7 +27,7 @@ keys and cannot change a quote. There is no last look.
 ## Install
 
 ```
-pip install "git+https://github.com/0xHedgeHood/hedgehood-maker-py"      # or: pip install -e ".[dev]" from a checkout
+pip install hedgehood-maker      # or: pip install "git+https://github.com/0xHedgeHood/hedgehood-maker-py"
 ```
 
 Python 3.10+, dependencies `eth-account` and `websockets`.
